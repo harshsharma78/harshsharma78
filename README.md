@@ -1,115 +1,131 @@
-<h1 align="center">Hi there, I'm Harsh Sharma 👋</h1>
+<h1 align="center">Hi, I'm Harsh Sharma 👋</h1>
 
-<h3 align="center">Software Engineer | React.js · Node.js · TypeScript · JavaScript (ES6+)</h3>
+<p align="center">
+  Frontend-focused Software Engineer building scalable, responsive web applications with React.js, TypeScript, and Node.js.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harsh-sharma-05988221b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshkunal99999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=harshsharma78&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a **Software Engineer with 2.5+ years of experience** designing and building scalable, high-performance web applications. I specialize in **React.js, Redux Toolkit, Node.js, and TypeScript**, and I love turning complex business requirements into clean, user-centric products.
-
-- 🔭 Currently working at **DigiMantra Labs** on **Earthlink** — a customer support & device activation platform for a major US ISP (AT&T, Verizon, T-Mobile, Reach) serving **10,000+ subscribers**
-- 🛠 Previously at **Genboot**, where I built third-party API integration frameworks, an HR Enterprise Portal, and single-handedly delivered the **HotelKeys** hospitality integration platform
-- 🎓 Pursuing **MCA in Cloud Computing** at Chandigarh University (CGPA: 8.60)
-- 🌱 Currently learning **Next.js, System Design, and Advanced TypeScript patterns**
-- 💬 Ask me about **React architecture, Redux Toolkit, REST APIs, and front-end performance optimization**
-- 📫 Reach me at **harshkunal99999@gmail.com**
-- 🗣 Languages: English, Hindi, Punjabi
-
----
-
-### 🛠 Tech Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-</p>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-</p>
-
----
-
-### 💼 Professional Highlights
-
-- 🏗 Built the **Earthlink device activation portal** from scratch using React.js and Redux Toolkit, onboarding **10,000+ ISP subscribers**
-- ⚡ Engineered DSL-to-WHI and DSL-to-Fiber migration workflows, reducing migration time by **30%**
-- 🐛 Resolved **40+ critical production bugs** across invoicing, payments, and device activation modules — improving app reliability by **25%**
-- 🔗 Shipped a third-party API integration framework at Genboot that cut manual data syncing by **50%**
-- 🚀 Modernized a legacy web application, improving performance by **40%**
-- 👨‍💼 Built a full-stack HR Enterprise Portal with authentication, RBAC, and async request processing for **100+ employees**
-- 🎯 Single-handedly delivered **HotelKeys** — an end-to-end hospitality integration platform, owning architecture, UI, and third-party integrations
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshsharma78&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma78&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshsharma78&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### 📌 Featured Projects
-
-Check out my pinned repositories below for a closer look at what I've been building 👇
-
----
-
-### 🤝 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/harsh-sharma-05988221b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:harshkunal99999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/harshsharma78">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<p align="center"><i>"Building scalable, user-centric web applications — one component at a time."</i></p>
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineer with **2.5+ years of experience** designing and developing web applications, with a primary focus on the **frontend**. I currently work at **DigiMantra Labs**, contributing to a large-scale customer support and device activation platform for a major US-based Internet Service Provider. Before that, I built third-party integrations, enterprise portals, and modernization projects at **Genboot**.
+
+I care deeply about **clean UI, performance, and maintainable component architecture**, and I enjoy translating complex business requirements into intuitive, production-ready interfaces. I'm continuously exploring modern tools and patterns in the React ecosystem to keep improving as an engineer.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**State Management**
+
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**AI & Productivity**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+
+---
+
+## ✨ Featured Skills
+
+- Responsive UI Development
+- Component-Based Architecture
+- REST API Integration
+- Authentication & Role-Based Access Control (RBAC)
+- State Management with Redux Toolkit
+- Cross-Browser Compatibility
+- Front-End Performance Optimization
+- Debugging & Root Cause Analysis
+- Clean, Maintainable Code
+- Agile Collaboration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshsharma78&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshsharma78&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=86400" height="165" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harshsharma78&theme=default&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns and performance optimization
+- Next.js and modern full-stack architectures
+- System design fundamentals
+- Deeper TypeScript patterns
+- Cloud Computing *(as part of MCA at Chandigarh University)*
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/harsh-sharma-05988221b](https://www.linkedin.com/in/harsh-sharma-05988221b)
+- 💻 **GitHub:** [github.com/harshsharma78](https://github.com/harshsharma78)
+- 📧 **Email:** [harshkunal99999@gmail.com](mailto:harshkunal99999@gmail.com)
+
+---
+
+## 💡 Fun Fact
+
+I enjoy turning complex business requirements into clean, reusable UI components — and I get genuinely excited when a refactor makes the code both simpler and faster.
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — feel free to explore my pinned repositories below. 🚀</i>
+</p>
