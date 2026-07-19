@@ -117,6 +117,7 @@ I care deeply about **clean UI, performance, and maintainable component architec
 - 💼 **LinkedIn:** [linkedin.com/in/harsh-sharma-05988221b](https://www.linkedin.com/in/harsh-sharma-05988221b)
 - 💻 **GitHub:** [github.com/harshsharma78](https://github.com/harshsharma78)
 - 📧 **Email:** [harshkunal99999@gmail.com](mailto:harshkunal99999@gmail.com)
+- 🌐 **Portfolio:** https://harshsharma-portfolio-seven.vercel.app/
 
 ---
 
